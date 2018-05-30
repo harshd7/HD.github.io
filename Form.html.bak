@@ -1,0 +1,77 @@
+<! DOCTYPE HTML>
+<html>
+	<head>
+		<meta  charset="UTF-8">
+		<title> Forms </title>
+	</head>
+	<body>     
+	<center><font size="10" color="#ff0000"><u><em><strong><p> Fill Form</p></strong></em></u></font></center>
+		
+		
+		<form action="Destination.html"  method="POST">
+			<br>
+			
+			Ever Played National Level Football: <br>
+			<label for="On">Yes: </label>   <input id="On" type="radio" name="OnOff" value="On" required>
+			<label for="Off">No: </label>  <input id="Off" type="radio" name="OnOff" value="Off"  required>
+			
+			<br><br>
+			Account: <br>
+			<label for="Gmail">Gmail : </label> <input id="Gmail" type="checkbox" name="Gmail" value="Yes">
+			<label for="Yahoo!">Yahoo! : </label> <input id="Yahoo!" type="checkbox" name="Yahoo!" value="Yes">
+			
+			<br><br>
+
+
+			Country:
+			<select name="country"  required>
+				<option value=""></option>
+				<option value="U.S.A.">U.S.A.</option>
+				<option value="Brazil">Brazil</option>
+				<option value="Mexico">Mexico</option>
+				<option value="Ireland"></option>
+				<option value="U.K.">U.K.</option>
+				<option value="Japan">Japan</option>
+				<option value="Korea">Korea</option>
+				<option value="Spain">Spain</option>
+				<option value="England">England</option>
+				<option value="Italy">Italy</option>
+				<option value="Germany">Germany</option>
+				<option value="France">France</option>
+				<option value="Holland">Holland</option>
+				<option value="Ireland">Ireland</option>
+				<option value="China">China</option>
+				<option value="Russia">Russia</option>
+              </select>
+			
+				<br><br>
+
+				Address: <br>
+				<textarea name="Address"> </textarea><br><br>
+						
+						
+						<fieldset>
+							<legend>Personal Info:</legend>
+								
+								<label for="email">Email:</label><input id="emial" type="email" name="email"  title="Please Enter a valid Email Address Example: example@gmail.com" required  > 
+
+								 <label for="date">DateOfBirth:</label> <input id="date" type="date" name="date" min="1997-10-22" >
+
+								 <label for="phone">PhoneNo:</label> <input id="phone" type="tel" name="phone" required>
+								 </fieldset>
+								 <br><br>
+									
+									
+									<u>Rating Meter:</u> <br>
+								 <input type="range" name="Rating" min="1" max="10">
+								 <br><br><br>
+
+				
+				
+				<center><input type="image" src="button.PNG" alt="Submit"></center>Shockwave Enterprises&copy;
+				<br>Contact<br>Harsh Dhaundiyal<br>Owner<br>harsh.dhaundiyal@gmail.com<br>7376066191
+				</form> 
+				</body>
+				</html>
+
+

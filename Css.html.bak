@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="Css2.css">
+		</head>
+		<body>
+		<em><strong><h1>Real Madrid F.C.  &reg;</h1></strong></em><hr>
+		<center><img src="Capture.PNG" width="170" height="200" border="2" alt="Real MAdrid img"></center>
+			<div id="wrap">		
+					
+			<div id="header"> 
+						<div id="logo">  
+						<h1>Real Madrid</h1>
+						</div>
+			</div>
+						 
+						<div id="menu">  
+							<ul>
+								<li> 
+									<a href="HomeRM.html">Home</a>
+								</li>
+								<li> 
+								<a href="#" class="selected">About Us</a>
+								</li>
+								<li> 
+									<a href="#">Contact Us </a>
+								</li>
+								<li> 
+									<a href="Form.html">Join Now !</a>
+								</li>
+						</ul>
+							
+								<div class="clear">  </div>
+								</div>
+	
+					
+
+						<div id="main">
+								<div id="content">
+									<h1> Welcome ! </h1>
+									<p> The Biggest Football club on the planet Real Madrid is searching for Talented Players for <font size="" color="Red">Real Madrid Team C </font> In every part of the world  </p>
+								</div>
+								<div id="side">
+									<h2><strong>Starting 11</strong></h2>
+									<h4><br>1.  Iker Callisas<br>2.  Varane<br>3.  Pepe<br>4.  Sergio Ramos<br>12. Marcelo<br>14. Toni Kross<br>10. James Rodreguez<br>8.  Luka Modri&ccedil;<br>11. Gareth Bale<br>9.  Karim Benzema<br>7.  Christiano Ronaldo </h4>
+								</div>
+								<div class="clear">  </div>
+						</div>
+						
+
+						
+						<div id="footer">  
+							Be A part of the Legendary Club
+
+						</div>  
+					
+					</div>
+					
+				</body>
+				</html>
